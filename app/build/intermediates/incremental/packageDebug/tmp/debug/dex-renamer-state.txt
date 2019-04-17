@@ -1,0 +1,4 @@
+#Wed Apr 17 10:42:58 CDT 2019
+base.0=/Users/randylarsen/tensorflow-for-poets-2/android/MP-9-Randall-Larsen-pt2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

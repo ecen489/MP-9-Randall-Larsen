@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">701891316913-a392dlonou0mbf9c4fam5brddcia0v1o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ml-kit-codelab-4a43f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">701891316913</string>
+    <string name="google_api_key" translatable="false">AIzaSyARVvIeytx_XvO6PbJ5prH5UMEMLdNHaUA</string>
+    <string name="google_app_id" translatable="false">1:701891316913:android:ee8ba1585ea6a6aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARVvIeytx_XvO6PbJ5prH5UMEMLdNHaUA</string>
+    <string name="google_storage_bucket" translatable="false">ml-kit-codelab-4a43f.appspot.com</string>
+    <string name="project_id" translatable="false">ml-kit-codelab-4a43f</string>
+</resources>
